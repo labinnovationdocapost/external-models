@@ -15,3 +15,12 @@ Collections of all external models file
 
 - For updates check [here](https://github.com/PaddlePaddle/PaddleOCR/blob/master/doc/doc_en/models_list_en.md) [License Apache 2.0](https://github.com/PaddlePaddle/PaddleOCR?tab=Apache-2.0-1-ov-file#readme)
 
+## [YOLO nano](https://github.com/ultralytics/ultralytics)
+
+Used only in the unit tests.
+
+- For updates check [here](https://github.com/ultralytics/assets/tree/main) [License AGPL 3.0](https://github.com/ultralytics/assets/blob/main/LICENSE)
+
+## [Polyglot](https://github.com/aboSamoor/polyglot) 
+
+- For updates check [here](http://polyglot.cs.stonybrook.edu/~polyglot/embeddings2/) and [here](http://polyglot.cs.stonybrook.edu/~polyglot/ner2/) [License GNU GENERAL PUBLIC LICENSE](https://github.com/aboSamoor/polyglot/blob/master/LICENSE)
