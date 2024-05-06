@@ -15,3 +15,5 @@ Collections of all external models file
 
 - For updates check [here](https://github.com/PaddlePaddle/PaddleOCR/blob/master/doc/doc_en/models_list_en.md) [License Apache 2.0](https://github.com/PaddlePaddle/PaddleOCR?tab=Apache-2.0-1-ov-file#readme)
 
+## [YOLO nano](https://github.com/ultralytics/assets)
+- For updates check [here](https://github.com/ultralytics/assets/tree/main) [License AGPL 3.0](https://github.com/ultralytics/assets/blob/main/LICENSE)
